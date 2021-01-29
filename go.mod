@@ -1,4 +1,4 @@
-module cisco-app-networking.github.io/cmux
+module github.com/soheilhy/cmux
 
 go 1.15
 
